@@ -1,4 +1,3 @@
-# Readme.md
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -56,6 +55,16 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diegokh&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">My Playlist</h2>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
